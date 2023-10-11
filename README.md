@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a science computer student at[UFRGS](http:/www.ufrgs.br) and software engineer. I'm always interested in computers and this motives me to pursue a role in this field and i really like to study the many areas of computing
+I'm a science computer student at [UFRGS](http:/www.ufrgs.br) and software engineer. I'm always interested in computers and this motives me to pursue a role in this field and i really like to study the many areas of computing
 
 - 😄 Pronouns: He/him
 - 🌱 I’m currently learning: machine learning, computer vision and parallel computing
