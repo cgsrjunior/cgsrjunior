@@ -6,7 +6,7 @@ I'm a science computer student at [UFRGS](http:/www.ufrgs.br) and software engin
 -->
 
 - 😄 Pronouns: He/him
-- 🌱 I’m currently learning: machine learning, computer vision and parallel computing
+- 🌱 I’m currently learning: geometrical computing, computer graphics, bibliometrics and parallel computing
 - 📫 How to reach me: cgsrjunior@inf.ufrgs.br, [LinkedIn](https://www.linkedin.com/in/cleiber-rodrigues-68153619a/)
 - ⚡ Fun fact: I've previous experience as a cobol developer and have less than 60 years
 
